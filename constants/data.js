@@ -24,8 +24,6 @@ const userData = {
     ],
   },
 
-  resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/karanjot_singh_dulay",
     twitter: "https://twitter.com/Karanjotdulay",
