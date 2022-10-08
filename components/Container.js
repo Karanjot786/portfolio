@@ -62,8 +62,8 @@ export default function Container(props) {
     },
 
     {
-      name: "Snippets",
-      link: "/snippets",
+      name: "About Me",
+      link: "/aboutme",
     },
     // {
     //   name: "Resources",
