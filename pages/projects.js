@@ -27,13 +27,35 @@ export default function projects() {
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
           Full-Stack
         </h3>
+  <div className="bg-white dark:bg-black">
+          <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-6 py-10 pb-20">
+            <a href="https://karanjot.vercel.app/" className="w-full block shadow-2xl">
+              <div className="relative overflow-hidden">
+                <div className="h-72 object-cover">
+                  <picture>
+                    <img src="/portfolio.png" alt="portfolio" width="600" height="600" layout="responsive" className="transform hover:scale-125 transition duration-2000 ease-out object-cover"
+                    />
+                  </picture>
+                </div>
+                <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                  Portfolio
+                </h1>
+                <h1 className="absolute bottom-10 left-10 text-black dark:text-white font-bold text-xl">
+                  1
+                </h1>
+              </div>
+            </a>
+
+          </div>
+  
+        </div>
         <div className="bg-white dark:bg-black">
           <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-6 py-10 pb-20">
             <a href="https://huntingcoderblogs.vercel.app" className="w-full block shadow-2xl">
               <div className="relative overflow-hidden">
                 <div className="h-72 object-cover">
                   <picture>
-                    <img src="tmk.png" alt="portfolio" width="600" height="600" layout="responsive" className="transform hover:scale-125 transition duration-2000 ease-out object-cover"
+                    <img src="/tmk.png" alt="portfolio" width="600" height="600" layout="responsive" className="transform hover:scale-125 transition duration-2000 ease-out object-cover"
                     />
                   </picture>
                 </div>
@@ -47,6 +69,29 @@ export default function projects() {
             </a>
 
           </div>
+  
+        </div>
+          <div className="bg-white dark:bg-black">
+          <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-6 py-10 pb-20">
+            <a href="https://news.karanjot786.repl.co/" className="w-full block shadow-2xl">
+              <div className="relative overflow-hidden">
+                <div className="h-72 object-cover">
+                  <picture>
+                    <img src="/news (1).png" alt="portfolio" width="600" height="600" layout="responsive" className="transform hover:scale-125 transition duration-2000 ease-out object-cover"
+                    />
+                  </picture>
+                </div>
+                <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                  News Website
+                </h1>
+                <h1 className="absolute bottom-10 left-10 text-black dark:text-white font-bold text-xl">
+                  1
+                </h1>
+              </div>
+            </a>
+
+          </div>
+  
         </div>
       
 
