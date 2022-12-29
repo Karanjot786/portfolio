@@ -63,7 +63,7 @@ export default function projects() {
                   Blog
                 </h1>
                 <h1 className="absolute bottom-10 left-10 text-black dark:text-white font-bold text-xl">
-                  1
+                  2
                 </h1>
               </div>
             </a>
@@ -85,7 +85,7 @@ export default function projects() {
                   News Website
                 </h1>
                 <h1 className="absolute bottom-10 left-10 text-black dark:text-white font-bold text-xl">
-                  1
+                  3
                 </h1>
               </div>
             </a>
