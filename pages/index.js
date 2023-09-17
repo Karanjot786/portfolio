@@ -70,7 +70,7 @@ export default function Home() {
           
 
             {/* <div className="absolute w-full h-full rounded-full transform scale-110 shadow-xl bg-gradient-to-r from-blue-300 via-blue-400 to-blue-500" /> */}
-            <picture> <img src="karanjot.png" className="rounded-full max-w-[200px] " />
+            <picture> <img src="https://avatars.githubusercontent.com/u/99573351?s=400&u=9c288cbf0cb24b0956e94f7c88c9d01af842175a&v=4" className="rounded-full max-w-[200px] " />
             </picture>
           </a>
         </div>
